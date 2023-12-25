@@ -40,7 +40,7 @@ print(Norm_of_matrix)
 ``````
 
 
-# Infinity Norm of a Matrix
+# 3-Infinity Norm of a Matrix
 ``````
 Program to find infinty of a matrix
 Developed by: GAYATHRI.K
@@ -67,7 +67,7 @@ print(Norm_of_matrix)
 ### 2-Norm of a Matrix
 ![Screenshot 2023-12-25 104328](https://github.com/GAYATHRI-K06/Norm-of-a-matrix/assets/145742742/bd6dd4ba-c2b3-4cd6-8faf-310d7abc8b7b)
 
-### Infinity Norm of a Matrix
+### 3- Infinity Norm of a Matrix
 ![Screenshot 2023-12-25 104336](https://github.com/GAYATHRI-K06/Norm-of-a-matrix/assets/145742742/5e0d86b5-f9fd-4d87-96f0-4d52dc3f4257)
 
 
