@@ -61,12 +61,15 @@ print(Norm_of_matrix)
 # OUTPUT
 
 ### 1-Norm of a Matrix
-![Alt text](<Screenshot 2023-12-25 104313.png>)
+![Screenshot 2023-12-25 104313](https://github.com/GAYATHRI-K06/Norm-of-a-matrix/assets/145742742/e2e47aa1-b266-4e44-9d83-0ddcd5d19331)
+
 
 ### 2-Norm of a Matrix
-![Alt text](<Screenshot 2023-12-25 104328.png>)
+![Screenshot 2023-12-25 104328](https://github.com/GAYATHRI-K06/Norm-of-a-matrix/assets/145742742/bd6dd4ba-c2b3-4cd6-8faf-310d7abc8b7b)
+
 ### Infinity Norm of a Matrix
-![Alt text](<Screenshot 2023-12-25 104336.png>)
+![Screenshot 2023-12-25 104336](https://github.com/GAYATHRI-K06/Norm-of-a-matrix/assets/145742742/5e0d86b5-f9fd-4d87-96f0-4d52dc3f4257)
+
 
 
 
